@@ -10,6 +10,8 @@ We use sequelizejs as our default ORM layer (For now), for more information plea
 ## Database
 Run `node bin/rebase` to setup your database and Run `node bin/seedModels` to setup seed data in those model
 
+test user login is admin/password
+
 TODO
 
 # Examples/Explanations
